@@ -1,4 +1,4 @@
 # datasciencecoursera
-repository for coursera data science course material
+repository for Coursera Data Science course material
 
 ## This is a markdown file
